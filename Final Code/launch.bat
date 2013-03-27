@@ -1,0 +1,5 @@
+start cmd /c "cd /d C:\Users\Daniel\Desktop\Code\Client & java PictionaryClient"
+start cmd /c "cd /d C:\Users\Daniel\Desktop\Code\Client & java PictionaryClient"
+start cmd /c "cd /d C:\Users\Daniel\Desktop\Code\Client & java PictionaryClient"
+start cmd /c "cd /d C:\Users\Daniel\Desktop\Code\Client & java PictionaryClient"
+start cmd /c "cd /d C:\Users\Daniel\Desktop\Code\Server & java PictionaryServer"
